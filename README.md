@@ -3,5 +3,5 @@
 
 # Solutions for Beecrowd/URI Judge
 
-## Sotutions in programming language C to URI problems
+## Sotutions in programming to URI/Beecrowd problems
 * Beecrowd/URI website -> https://www.beecrowd.com.br/judge/pt
